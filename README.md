@@ -27,7 +27,7 @@ This is a Alfred workflow for adding expense quickly to your Splitwise account. 
 
 8. And copy the AddExpense folder under the dist folder to Alfred workflow's directory.
 
-   ![Screen Shot 2020-06-03 at 8.34.15 PM](./Screenshots/Screen Shot 2020-06-03 at 8.34.15 PM.png?raw=true)
+   ![Screen Shot 2020-06-03 at 8.34.15 PM](./Screenshots/Demo1.png?raw=true)
 
 9. You're good to go!
 
@@ -41,4 +41,4 @@ Name: The person you are splitting money with.
 
 Amount: The total amount of the expense.
 
-Percentage: The total share that you own. E.g. If the amount is \$10, by typing 0.2 means that you should pay \$2 out of the $10. If didn't mention, the default value is to split in half (50%).![Screen Shot 2020-06-03 at 8.23.01 PM](./Screenshots/Screen Shot 2020-06-03 at 8.23.01 PM.png?raw=true)
+Percentage: The total share that you own. E.g. If the amount is \$10, by typing 0.2 means that you should pay \$2 out of the $10. If didn't mention, the default value is to split in half (50%).![Screen Shot 2020-06-03 at 8.23.01 PM](./Screenshots/Demo2.png?raw=true)
